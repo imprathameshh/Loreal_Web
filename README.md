@@ -1,2 +1,2 @@
-# Loreal_Web
- It's a consumer goods web portfolio.
+# Loreal_web
+It's a consumer goods web portfolio. 
